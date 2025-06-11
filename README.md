@@ -1,10 +1,10 @@
-# Nuxt Minimal Starter
+# VuenosJobs
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Primer proyecto para las jornadas de estudio de la comunidad Vue JS Colombia
 
-## Setup
+## Instalación
 
-Make sure to install dependencies:
+Asegúrate de instalar las dependencias.
 
 ```bash
 # npm
@@ -20,9 +20,9 @@ yarn install
 bun install
 ```
 
-## Development Server
+## Servidor de desarrollo
 
-Start the development server on `http://localhost:3000`:
+Inicia el servidor de desarrollo en `http://localhost:3000`:
 
 ```bash
 # npm
@@ -38,9 +38,9 @@ yarn dev
 bun run dev
 ```
 
-## Production
+## Producción
 
-Build the application for production:
+Construye la aplicación para producción:
 
 ```bash
 # npm
@@ -56,7 +56,7 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+Previsualiza localmente la versión de producción:
 
 ```bash
 # npm
@@ -72,4 +72,15 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Consulta la [documentación de despliegue](https://nuxt.com/docs/getting-started/deployment) para más información.
+
+## Colaborar
+
+**Pasos:**
+
+1. Hacer fork y darle estrellita al repositorio [aquí](https://github.com/vuejsco/VuenosJobs)
+2. Clonar el repositorio de tu cuenta
+3. Hacer lo pasos de Instalación y Servidor de desarollo de este mismo documento
+4. Para cualquier commit se esta utilizando conventional commit restringido por husky para seguir buenas prácticas empapate en esta [documentación](https://www.conventionalcommits.org/en/v1.0.0/)
+
+> **Aqui faltan los pasos de los pr y como se van a revisar etc**
