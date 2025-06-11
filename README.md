@@ -84,3 +84,5 @@ Consulta la [documentación de despliegue](https://nuxt.com/docs/getting-started
 4. Para cualquier commit se esta utilizando conventional commit restringido por husky para seguir buenas prácticas empapate en esta [documentación](https://www.conventionalcommits.org/en/v1.0.0/)
 
 > **Aqui faltan los pasos de los pr y como se van a revisar etc**
+>
+> Yo puse todo en español pero se puede traducir a ingles para tenerlo para mas personas
